@@ -25,7 +25,5 @@
 <h3 align="left">Certificaciones:</h3>
 <ul>
   <li>Auxiliar en Seguridad Informatica**</li>
-  <li>Asistente Forense Digital**</li>
-  <li>Certificado en **ISO 27001**</li>
-  <li>Candidato al **CC de ISC2**</li>
+  <li>*Certificado en Ciberseguridad de ISC2**</li>
 </ul>
